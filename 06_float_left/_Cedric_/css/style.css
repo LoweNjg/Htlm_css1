@@ -1,0 +1,44 @@
+div{
+    width: 89%;
+    }
+header{
+    background: #fff;
+    text-align: center;
+}
+body{
+    width: 86%;
+}
+.Container1, .image1{
+    width: 40.5%;
+    float: right;
+}
+.Container2, .image2{
+    width: 35.5%;
+    float: left;
+    margin-left: 10%;
+}
+.Container3, .image3{
+    width: 35.5%;
+    float: right;
+    margin-right: 4.5%;
+}
+.Container4, .image4{
+    width: 35.5%;
+    float: left;
+    margin-left: 10%;
+}
+.Container5, .image5{
+    width: 31%;
+    float: right;
+    margin-right: 4.5%;
+}
+.clear{
+    clear: both;
+}
+footer{
+    text-align: center;
+    margin-left: 20%;
+}
+header, footer{
+    width: 70%;
+}
