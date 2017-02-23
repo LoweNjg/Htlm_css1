@@ -1,0 +1,17 @@
+div{
+    width: 730px;
+    height: 133px;
+    line-height: 0px; /* alignement dans la hauteur (du texte)*/
+    color: transparent;
+    font-size: 50px;
+    text-transform: uppercase;/* transformation du texte en majuscule */
+    transition: 0.5s; /* durée de la transition*/
+}
+div:hover{
+    line-height: 210px;/* alignement dans la hauteur */
+    color: #000;
+}
+div img{
+    float: left; /* effet float */
+    margin:0 15px;
+}

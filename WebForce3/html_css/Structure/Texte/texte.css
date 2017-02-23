@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'stranger_back_in_the_nightRg';
+    src: url('police/stranger_back_in_the_night-webfont.woff2') format('woff2'),
+         url('police/stranger_back_in_the_night-webfont.woff') format('woff');
+    font-weight: normal ;
+    font-style: normal ;
+
+}
+
+body{
+    font-family: 'stranger_back_in_the_nightRg';
+    font-size: 100px;
+}

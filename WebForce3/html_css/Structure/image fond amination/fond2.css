@@ -1,0 +1,12 @@
+body{
+   background: #000000 url(fond2.jpg) no-repeat;
+   background-size: cover;/*cover en css3 permet de couvrir tout l'écran*/
+}
+
+.contenu{
+   width: 800px;
+   height: 500px;
+   background: linear-gradient(#6895CB, #AF5915);
+   opacity: 0.6;
+   margin: auto;
+}
